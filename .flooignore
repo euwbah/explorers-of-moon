@@ -6,4 +6,5 @@
 extern/
 node_modules/
 tmp
+/.idea
 vendor/
